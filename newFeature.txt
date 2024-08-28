@@ -1,0 +1,5 @@
+hello foks
+im exicted today to introduce a new vim feature!
+we can now call the police when you enter the local police number in
+as 
+call police: 995

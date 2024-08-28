@@ -1,5 +1,5 @@
 today is 
-the 6th day of the week
+the 3th day of the week
 
-it is saturday my dudes
-i'm doing cs2103 right now!
+actually it's now wednesday
+and we ahve finished cs2103 stuff! (for w2 anyway)
